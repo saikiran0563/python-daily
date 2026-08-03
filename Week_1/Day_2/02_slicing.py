@@ -95,4 +95,20 @@ print(numbers[::2])      # (10, 30, 50)
 print(numbers[::-1])     # (60, 50, 40, 30, 20, 10)
 
 
+# String and List Slicing
+
+name ="Artificial Intelligence"
+
+print(name[0:10])
+print(name[11:])
+print(name[::3])
+print(name[::-1])
+
+marks=[85,90,76,88,95,91,79]
+
+print(marks[0:4])
+print(marks[4:])
+print(marks[::2])
+print(marks[::-1])
+
 
