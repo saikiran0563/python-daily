@@ -1,0 +1,14 @@
+2026-08-20 15:02:32,142 - INFO - Fetching weather for khammam
+2026-08-20 15:02:33,919 - INFO - Weather fetched successfully for khammam
+2026-08-20 15:07:08,558 - INFO - Fetching weather for hyderabad
+2026-08-20 15:07:09,693 - ERROR - API request failed: 404 Client Error: Not Found for url: https://google.in/hyderabad?format=j1
+2026-08-20 15:27:11,613 - INFO - Fetching weather for khammam
+2026-08-20 15:27:13,445 - INFO - Weather fetched successfully for khammam
+2026-08-20 16:56:43,149 - INFO - Fetching weather for khammam
+2026-08-20 16:56:43,165 - ERROR - API request failed: HTTPSConnectionPool(host='wttr.in', port=443): Max retries exceeded with url: /khammam?format=j1 (Caused by NameResolutionError("HTTPSConnection(host='wttr.in', port=443): Failed to resolve 'wttr.in' ([Errno 11001] getaddrinfo failed)"))
+2026-08-20 17:02:55,774 - INFO - Fetching weather for khamam
+2026-08-20 17:02:58,760 - INFO - Weather fetched successfully for khamam
+2026-08-20 17:03:27,229 - INFO - Fetching weather for khammam
+2026-08-20 17:03:29,242 - INFO - Weather fetched successfully for khammam
+2026-08-20 17:06:40,059 - INFO - Fetching weather for khammam
+2026-08-20 17:06:42,607 - INFO - Weather fetched successfully for khammam
